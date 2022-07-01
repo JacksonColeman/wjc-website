@@ -1,3 +1,13 @@
 body {
-    background: lightblue;
-  }
+    background: whitesmoke;
+    font-family:sans-serif;
+    text-align: center;
+}
+
+#ozu{
+    align-content:left;
+}
+
+#bresson{
+    align-content:right;
+}
